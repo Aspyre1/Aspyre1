@@ -113,4 +113,4 @@ if (command === 'say') {
     }
 });
 
-bot.login('MjY2NjcxNjI5MDY3NzQ3MzM4.C1KkNA.WCXRGGN7eH7-IuDCRWuPBDBbMqQ');
+bot.login('');
